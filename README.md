@@ -1,1 +1,1 @@
-# data_science_tutor_lessons
+# This repo is part of an initiatives to teach data science from beginners.
